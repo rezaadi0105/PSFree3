@@ -12,7 +12,6 @@ psfree.mjs
 fonts\LiberationMono-Regular.ttf
 kpatch\900.elf
 module\chain.mjs
-module\constants.mjs
 module\int64.mjs
 module\mem.mjs
 module\memtools.mjs
